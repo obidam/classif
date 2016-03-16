@@ -1,7 +1,7 @@
 {
   "name": "Ocean's Big Data Mining",
   "tagline": "Mclassif demo",
-  "body": "# Demonstration of Un-supervised Classification with Matlab and Netlab\r\n\r\nThis git is to provide demonstration files of Un-supervised Classification of sample data using the Netlab toolbox in Matlab.",
+  "body": "# Demonstration of Un-supervised Classification with Matlab and Netlab\r\n\r\nThis is not a tutorial on the un-supervised classification method.\r\n\r\nThis git is to provide demonstration files with sample data using the Netlab toolbox in Matlab.\r\n\r\nThe Netlab (Netlab Neural Network Software) toolbox is free and available here:\r\n[http://www.aston.ac.uk/eas/research/groups/ncrg/resources/netlab/](http://www.aston.ac.uk/eas/research/groups/ncrg/resources/netlab/)\r\n\r\nAvailable demonstrations:\r\n\r\n* demo_01.m: Classification with a Gaussian Mixture Model. ",
   "google": "UA-44072442-3",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
