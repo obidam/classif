@@ -1,7 +1,7 @@
 {
-  "name": "Mclassif demo",
-  "tagline": "Demonstration of Un-supervised Classification with Matlab and Netlab",
+  "name": "Ocean's Big Data Mining",
+  "tagline": "Mclassif demo",
   "body": "# Demonstration of Un-supervised Classification with Matlab and Netlab\r\n\r\nThis git is to provide demonstration files of Un-supervised Classification of sample data using the Netlab toolbox in Matlab.",
-  "google": "",
+  "google": "UA-44072442-3",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
